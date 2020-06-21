@@ -1,0 +1,17 @@
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.csprojAssemblyReference.cache
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.AssemblyInfoInputs.cache
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.AssemblyInfo.cs
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.csproj.CoreCompileInputs.cache
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.exe
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.deps.json
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.runtimeconfig.json
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.runtimeconfig.dev.json
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.dll
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.pdb
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.csproj.CopyComplete
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.dll
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.pdb
+C:\Users\burak.tahtalioglu\source\repos\MarsRoverProblem\src\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.genruntimeconfig.cache
